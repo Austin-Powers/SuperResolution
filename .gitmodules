@@ -1,3 +1,6 @@
 [submodule "THzCommon"]
 	path = THzCommon
 	url = git@github.com:Austin-Powers/THzCommon.git
+[submodule "THzImage"]
+	path = THzImage
+	url = git@github.com:Austin-Powers/THzImage.git
